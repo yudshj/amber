@@ -208,6 +208,7 @@ function(amber_default_compile_options TARGET)
       -Wextra
       -Wno-cast-function-type-strict
       -Wno-padded
+      -Wno-switch-default
       -Wno-switch-enum
       -Wno-unknown-pragmas
       -Wno-unsafe-buffer-usage
